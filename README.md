@@ -125,7 +125,7 @@ Typical files:
 
 A known working public FPGA image for **XC7A100T + AD9361** B210-class clones is maintained here:
 
-- https://github.com/lmesserStep/LibreSDRB210
+- https://github.com/gturing/B210mini
 
 Use that image (or the copy shipped in this repo) if UHD’s stock `usrp_b210_fpga.bin` does not configure the Artix-7 device.
 
@@ -166,7 +166,7 @@ Stock Ettus B210 bitstreams target Spartan-6. BlackSDR B210mini uses **Artix-7 X
 
 ```bash
 # example: image from the LibreSDR B210 XC7A100T tree
-wget https://github.com/lmesserStep/LibreSDRB210/raw/main/usrp_b210_fpga.bin
+wget https://github.com/gturing/B210mini/raw/main/usrp_b210_fpga.bin
 
 IMAGES_DIR="$(uhd_config_info --images-dir)"
 sudo cp usrp_b210_fpga.bin "$IMAGES_DIR/usrp_b210_fpga.bin"
