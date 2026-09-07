@@ -234,7 +234,7 @@ For 2×2 MIMO, request two channels on the USRP source/sink (`num_channels=2`) a
 
 | Stack | Notes |
 |---|---|
-| UHD 4.0 – 7.x | Primary driver. Board appears as `B210`. |
+| UHD 3.15 – 4.10 | Primary driver. Board appears as `B210`. |
 | GNU Radio | UHD blocks |
 | MATLAB / Simulink | Communications Toolbox Support Package for USRP |
 | srsRAN / OpenAirInterface | B210 device type |
