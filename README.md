@@ -46,7 +46,7 @@ In short: **B210 performance, B205 size, simpler RF.**
 - **70 MHz – 6 GHz** continuous coverage (typical; some boards tune from ~50 MHz)
 - **Up to 56 MHz** instantaneous bandwidth (61.44 MS/s quadrature)
 - **12-bit** ADC / DAC
-- **USB 3.0 Type-C**, host-powered for most use
+- **USB 3.0 Micro B**, host-powered for most use
 - Onboard **Artix-7 XC7A100T** FPGA (~100k logic cells) for the B210 datapath
 - **AD9361-class** integrated transceiver
 - Simplified RF front-end versus the full-size B210
