@@ -241,8 +241,7 @@ For 2×2 MIMO, request two channels on the USRP source/sink (`num_channels=2`) a
 | SDR++, SDRangel, GQRX | Via SoapyUHD or native UHD |
 | Pothos, Inspectrum, custom C++/Python | libuhd |
 
-FPGA rebuilds (only if you change HDL) have been demonstrated on **Vivado ML Standard 2024.1** targeting **Artix-7 XC7A100T**. See [lmesserStep/LibreSDRB210](https://github.com/lmesserStep/LibreSDRB210) for the clone-oriented image notes, including DAC7311 SPI bring-up.
-
+FPGA rebuilds (only if you change HDL) have been demonstrated on **Vivado ML Standard 2021.1** targeting **Artix-7 XC7A100T**. 
 ---
 
 ## Applications
