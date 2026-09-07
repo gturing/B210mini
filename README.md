@@ -80,7 +80,7 @@ Values below describe the intended B210mini class. Exact figures can vary slight
 | Item | Spec |
 |---|---|
 | FPGA | Xilinx / AMD Artix-7 **XC7A100T** |
-| Host interface | USB 3.0 SuperSpeed, Type-C |
+| Host interface | USB 3.0 SuperSpeed, Micro B |
 | Reference clock | Onboard VCTCXO, ±0.5 ppm typical |
 | Sync inputs | 10 MHz ref + 1 PPS (IPEX / U.FL class connectors on many revs) |
 | GPIO / JTAG | Board-revision dependent |
@@ -91,7 +91,7 @@ Values below describe the intended B210mini class. Exact figures can vary slight
 |---|---|
 | Board size | ~90 × 63 mm class (B205-like, far smaller than B210) |
 | Weight | ~50 g (bare board, typical) |
-| Power | USB 3.0 bus power; ~2.8 W max typical |
+| Power | USB 3.0 bus power; ~3.8 W max typical |
 | Original B210 size (for comparison) | 97 × 155 × 15 mm, ~350 g |
 | Original B205mini size (for comparison) | 50 × 84 mm |
 
@@ -104,7 +104,7 @@ Values below describe the intended B210mini class. Exact figures can vary slight
 | FPGA (original / this board) | Spartan-6 LX150 | Spartan-6 LX150 (i) | **Artix-7 XC7A100T** |
 | IBW | 56 MHz | 56 MHz | **56 MHz** |
 | Frequency | 70 MHz–6 GHz | 70 MHz–6 GHz | **70 MHz–6 GHz** |
-| Host | USB 3.0 | USB 3.0 | **USB 3.0 Type-C** |
+| Host | USB 3.0 | USB 3.0 | **USB 3.0 Micro B** |
 | Form factor | Full B-series board | Mini | **Mini** |
 | RF front-end | Full B210 layout | Mini SISO layout | **Simplified 2×2 layout** |
 
