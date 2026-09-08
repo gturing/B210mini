@@ -307,7 +307,6 @@ The trade is mechanical and analog, not architectural: you still program it like
 
 - Ettus USRP B200 / B210 / B200mini / B205mini overview: https://kb.ettus.com/B200/B210/B200mini/B205mini/B206mini
 - UHD: https://github.com/EttusResearch/uhd
-- XC7A100T B210-clone FPGA image notes: https://github.com/lmesserStep/LibreSDRB210
 
 ---
 
