@@ -318,4 +318,4 @@ FPGA bitstreams, UHD, and vendor IP remain under their own licenses. Do not assu
 
 ---
 
-*BlackSDR B210mini — B210 radio, B205 size.*
+
