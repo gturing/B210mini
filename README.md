@@ -9,7 +9,9 @@ It enumerates as a **USRP B210** under [UHD](https://github.com/EttusResearch/uh
 > This is **not** an official Ettus Research / NI product. It is a B210-compatible design intended for research, education, and experimentation.
 
 ---
-
+<p align="center">
+  <img src="b210mini_front_2.png" alt="BlackSDR B210mini" width="720">
+</p>
 ## Why B210mini exists
 
 The original **USRP B210** is the workhorse 2×2 MIMO USB SDR: AD9361, 70 MHz–6 GHz, up to 56 MHz instantaneous bandwidth, full duplex. It is also relatively large (~97 × 155 mm) and carries a more elaborate RF layout.
